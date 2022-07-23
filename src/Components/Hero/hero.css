@@ -1,0 +1,28 @@
+#hero{
+    background: url('./Assets/mexican-food.jpg') no-repeat center center fixed; 
+    background-position:bottom; 
+    background-attachment:scroll; 
+    -o-background-size:cover; 
+    -moz-background-size:cover; 
+    -webkit-background-size:cover; 
+    background-size:cover; 
+    background-repeat:no-repeat;
+    max-height: 100vh;
+    width: 100%;
+  
+}
+
+span{
+    font-family: 'Modak', sans-serif;
+    font-weight: 100;
+    font-size: 24px;
+    color: red;
+}
+.nav-link{
+    color: white !important;
+}
+.hero{
+    height: 100vh;
+    font-weight: bold !important;
+    font-family: 'Modak', sans-serif;
+}

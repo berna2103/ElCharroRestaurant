@@ -1,0 +1,17 @@
+.menu-tab{
+    background-color: rgb(210, 52, 52) !important;
+}
+.img-section{
+    max-height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+}
+.section-text{
+    margin-top: -4rem;
+    color: white;
+    font-family: 'modak';
+    font-size: 25px;
+    font-weight: lighter;
+}
